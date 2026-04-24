@@ -1,49 +1,56 @@
-### Jatin Mittal
+<div align="center">
 
-**Data Scientist II (Analytics) at Uber** — Uber Eats, helping restaurants grow GMV globally. Previously **Senior Decision Science Analyst at PhonePe**. **7+ years** in analytics and data science across marketplace, payments, and financial services.
+# 🤖 Jatin Mittal
 
-Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/jatinmittal0001/)
+**Analytics @ Uber** · **Uber Eats** · *ex-PhonePe* · **IIT Delhi** · Bengaluru
 
----
+*7+ years* in data science & analytics — models, forecasts, and product decisions that scale.
 
-### About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jatinmittal0001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinmittal0001/)
 
-I work at the intersection of **analytics, modeling, and product impact**: framing business problems clearly, building models and decision tools stakeholders trust, and iterating with data. At **Uber** I focus on analytics that supports growth for restaurant partners. At **PhonePe** I spent several years in decision science at scale.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Earlier at **EXL**, I worked on **credit risk and loss forecasting**: logistic regression and credit-scoring approaches, feature engineering and variable reduction, stress and sensitivity testing under macro scenarios, and executive-facing views of roll rates, delinquencies, and NCL. I also built and improved **P&L and cash-flow simulation** tooling—making assumptions adjustable by segment and reflecting seasonality and customer behavior.
+![AI](https://img.shields.io/badge/Focus-Applied%20ML%20%26%20GenAI-7C3AED?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-Experimentation-00D4AA?style=for-the-badge)
 
-I started in research and engineering foundations: **IIT Delhi** undergraduate research (mathematical modeling and simulation; **Summer Undergraduate Research Award, 2016**), a **B.Tech thesis** on microfluidics and affinity detection with image-based quantification, and a **data science internship at Wipro**.
-
-**Learning:** Deep Learning Specialization (DeepLearning.ai) and related Coursera courses (machine learning, sequence models, CNNs), **How to Win a Data Science Competition (Top Kagglers)**, and **Practical Time Series Analysis**.
-
-**Languages:** English, Hindi, Punjabi.
-
----
-
-### On this GitHub
-
-Personal projects and study repos—**Kaggle-style challenges**, **NLP / classification**, **course notes**, and **deployment** examples—alongside experimentation I keep public for learning and portfolio use.
-
-| Project | Description |
-| -------- | ----------- |
-| [Titanic-Challenge-Kaggle](https://github.com/JATIN-DS/Titanic-Challenge-Kaggle) | Supervised learning benchmark end to end |
-| [Multi-class text classification (LSTM + Word2Vec)](https://github.com/JATIN-DS/Muti-Class-Classification-on-Textual-data-Sentiment-Analysis-LSTM-Word2Vec-embedding) | Text classification with embeddings and recurrent models |
-| [Deploying ML models](https://github.com/JATIN-DS/deploying-machine-learning-models) | Deployment coursework examples |
-| [DeepLearning.ai summaries](https://github.com/JATIN-DS/DeepLearning.ai-Summary) | Notes from the DeepLearning.ai specialization |
-| [Amazon Employee Access Challenge](https://github.com/JATIN-DS/Amazon-Employee-Access-Challenge-Github) | Feature and model exploration |
-
-*More repositories: [github.com/JATIN-DS?tab=repositories](https://github.com/JATIN-DS?tab=repositories)*
+</div>
 
 ---
 
-### How I like to work
+## ⚡ About
 
-- **Problem first:** measurable goal, baseline, then model complexity  
-- **Rigor:** validation, stress scenarios, and clear limitations where the business needs them  
-- **Reproducibility:** readable code, documented data assumptions, sensible defaults  
+- **Uber:** analytics for restaurant / partner growth and GMV.  
+- **PhonePe:** senior decision science — experimentation and analytics at scale.  
+- **EXL:** credit risk, loss forecasting, scoring, stress testing, exec dashboards; P&L & cash-flow simulation.  
+- **IIT Delhi:** research (**SURA**), **B.Tech thesis** — microfluidics, binding affinity, image-based quantification.  
+- **Always learning:** DeepLearning.ai, Coursera ML/DL, Kaggle-style comps, time series.
 
 ---
 
-### Connect
+## 🧪 Lab — repos I tinker with
 
-**[LinkedIn — jatinmittal0001](https://www.linkedin.com/in/jatinmittal0001/)** · Open to relevant conversations on analytics, experimentation, and applied ML.
+| | |
+|:---|:---|
+| [Titanic–Kaggle](https://github.com/JATIN-DS/Titanic-Challenge-Kaggle) | Classic supervised learning benchmark |
+| [LSTM + Word2Vec text classification](https://github.com/JATIN-DS/Muti-Class-Classification-on-Textual-data-Sentiment-Analysis-LSTM-Word2Vec-embedding) | NLP / embeddings playground |
+| [Deploying ML models](https://github.com/JATIN-DS/deploying-machine-learning-models) | Serving & deployment experiments |
+| [DeepLearning.ai notes](https://github.com/JATIN-DS/DeepLearning.ai-Summary) | DL specialization summaries |
+| [Amazon access challenge](https://github.com/JATIN-DS/Amazon-Employee-Access-Challenge-Github) | Feature + model exploration |
+
+[→ All repositories](https://github.com/JATIN-DS?tab=repositories)
+
+---
+
+<div align="center">
+
+**✨ Open to collabs on applied ML, analytics & experimentation.**
+
+<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JATIN-DS&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&title_color=7C3AED&icon_color=00D4AA" />
+
+<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN-DS&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" />
+
+</div>
