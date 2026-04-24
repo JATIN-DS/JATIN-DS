@@ -43,8 +43,6 @@
 
 <div align="center">
 
-**✨ Open to collabs on applied ML, analytics & experimentation.**
-
 <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JATIN-DS&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&title_color=7C3AED&icon_color=00D4AA" />
 
 <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN-DS&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=javascript" />
