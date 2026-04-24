@@ -35,6 +35,7 @@
 
 - **Facebook Focus Lens** (`website_post_hide`) — Keyword-based **hide / blur** for **Facebook** group and feed posts. Cuts noise when you need a **cleaner signal** (for example, **flat hunting** in busy rental groups by filtering out irrelevant or off-topic posts).
 - **AutoClick** (`website_auto_click`) — Watches for **buttons whose labels match** keywords you set and **clicks them automatically** as they appear. Geared toward **Flipkart** and **Amazon** flows—especially **high-pressure sale windows** or **midnight drops** when shaving seconds off manual clicks matters.
+- **Streaming ratings** (`streaming-ratings-extension`) — Surfaces **IMDb** and **Rotten Tomatoes** scores on **Hotstar**, **Prime Video**, **Netflix**, **Disney+**, and **Sony LIV** while you browse, so you can compare titles without leaving the app (powered by **OMDb**; you add your own API key).
 
 → [**Repository & install guides →**](https://github.com/JATIN-DS/Chrome_Extensions)
 
