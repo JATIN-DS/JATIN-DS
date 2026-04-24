@@ -4,15 +4,15 @@
 
 **Analytics @ Uber** · **Uber Eats** · *ex-PhonePe* · **IIT Delhi** · Bengaluru
 
-*7+ years* in data science & analytics — models, forecasts, and product decisions that scale.
+*8+ years* in data science & analytics — models, forecasts, and product decisions that scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jatinmittal0001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinmittal0001/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chrome](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ![AI](https://img.shields.io/badge/Focus-Applied%20ML%20%26%20GenAI-7C3AED?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Analytics-Experimentation-00D4AA?style=for-the-badge)
@@ -28,6 +28,18 @@
 - **EXL:** credit risk, loss forecasting, scoring, stress testing, exec dashboards; P&L & cash-flow simulation.  
 - **IIT Delhi:** research (**SURA**), **B.Tech thesis** — microfluidics, binding affinity, image-based quantification.  
 - **Always learning:** DeepLearning.ai, Coursera ML/DL, Kaggle-style comps, time series.
+
+---
+
+## 🧩 Highlights — browser productivity tools
+
+Side projects: **Manifest V3** Chrome extensions for real-world workflows (feed noise reduction, checkout automation).
+
+| | |
+|:---|:---|
+| [**chrome-extensions**](https://github.com/JATIN-DS/chrome-extensions) | Monorepo: **Facebook Focus Lens** (keyword-based post hiding in groups/feeds) · **AutoClick** (keyword-triggered button automation on Flipkart, Amazon, and other sites) |
+
+→ [**Repository & install guides →**](https://github.com/JATIN-DS/chrome-extensions)
 
 ---
 
