@@ -6,7 +6,7 @@
 
 *8+ years* in data science & analytics — models, forecasts, and product decisions that scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jatinmittal0001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinmittal0001/)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinmittal0001/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
