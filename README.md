@@ -23,11 +23,10 @@
 
 ## ⚡ About
 
-- **Uber:** analytics for restaurant / partner growth and GMV.  
+- **Uber:** leading **growth analytics** for **partnered restaurants** globally—focused on **revenue growth** for restaurant partners.  
 - **PhonePe:** senior decision science — experimentation and analytics at scale.  
 - **EXL:** credit risk, loss forecasting, scoring, stress testing, exec dashboards; P&L & cash-flow simulation.  
-- **IIT Delhi:** research (**SURA**), **B.Tech thesis** — microfluidics, binding affinity, image-based quantification.  
-- **Always learning:** DeepLearning.ai, Coursera ML/DL, Kaggle-style comps, time series.
+- **IIT Delhi:** research (**SURA**), **B.Tech thesis** — microfluidics, binding affinity, image-based quantification.
 
 ---
 
@@ -37,9 +36,9 @@ Side projects: **Manifest V3** Chrome extensions for real-world workflows (feed 
 
 | | |
 |:---|:---|
-| [**chrome-extensions**](https://github.com/JATIN-DS/chrome-extensions) | Monorepo: **Facebook Focus Lens** (keyword-based post hiding in groups/feeds) · **AutoClick** (keyword-triggered button automation on Flipkart, Amazon, and other sites) |
+| [**Chrome_Extensions**](https://github.com/JATIN-DS/Chrome_Extensions) | Monorepo: **Facebook Focus Lens** (keyword-based post hiding in groups/feeds) · **AutoClick** (keyword-triggered button automation on Flipkart, Amazon, and other sites) |
 
-→ [**Repository & install guides →**](https://github.com/JATIN-DS/chrome-extensions)
+→ [**Repository & install guides →**](https://github.com/JATIN-DS/Chrome_Extensions)
 
 ---
 
