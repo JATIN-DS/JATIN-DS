@@ -4,7 +4,7 @@
 
 **Analytics @ Uber** · **Uber Eats** · *ex-PhonePe* · **IIT Delhi** · Bengaluru
 
-*8+ years* in data science & analytics — models, forecasts, and product decisions that scale.
+*I like **small experiments with AI**—playful prototypes that help me crack **everyday problems**, from analytics to the tools I ship in the browser.*
 
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinmittal0001/)
 
@@ -22,6 +22,7 @@
 
 ## ⚡ About
 
+- **8+ years** in data science & analytics across marketplaces, payments, and risk.  
 - **Uber:** leading **growth analytics** for **partnered restaurants** globally—focused on **revenue growth** for restaurant partners.  
 - **PhonePe:** senior decision science — experimentation and analytics at scale.  
 - **EXL:** credit risk, loss forecasting, scoring, stress testing, exec dashboards; P&L & cash-flow simulation.  
