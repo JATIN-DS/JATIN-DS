@@ -39,19 +39,3 @@
 - **Streaming ratings** (`streaming-ratings-extension`) — Surfaces **IMDb** and **Rotten Tomatoes** scores on **Hotstar**, **Prime Video**, **Netflix**, **Disney+**, and **Sony LIV** while you browse, so you can compare titles without leaving the app (powered by **OMDb**; you add your own API key).
 
 → [**Repository & install guides →**](https://github.com/JATIN-DS/Chrome_Extensions)
-
----
-
-## Jatin · GitHub stats & charts
-
-<div align="center">
-
-<img height="185" alt="Jatin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JATIN-DS&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&title_color=7C3AED&icon_color=00D4AA&custom_title=Jatin%27s%20GitHub%20Stats" />
-
-<img height="185" alt="Jatin's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN-DS&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=javascript&custom_title=Jatin%27s%20Most%20Used%20Languages" />
-
-<img height="185" alt="Jatin's GitHub streak" src="https://streak-stats.demolab.com/?user=JATIN-DS&theme=tokyonight&hide_border=true&ring=7C3AED&fire=00D4AA&currStreakLabel=Current%20streak" />
-
-![Jatin's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=JATIN-DS&custom_title=Jatin%27s%20Contribution%20Graph&hide_border=true&theme=tokyo-night)
-
-</div>
