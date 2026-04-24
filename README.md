@@ -32,27 +32,12 @@
 
 ## 🧩 Highlights — browser productivity tools
 
-Side projects: **Manifest V3** Chrome extensions for real-world workflows (feed noise reduction, checkout automation).
+**Manifest V3** Chrome extensions — source and install guides in [**Chrome_Extensions**](https://github.com/JATIN-DS/Chrome_Extensions).
 
-| | |
-|:---|:---|
-| [**Chrome_Extensions**](https://github.com/JATIN-DS/Chrome_Extensions) | Monorepo: **Facebook Focus Lens** (keyword-based post hiding in groups/feeds) · **AutoClick** (keyword-triggered button automation on Flipkart, Amazon, and other sites) |
+- **Facebook Focus Lens** (`website_post_hide`) — Keyword-based **hide / blur** for **Facebook** group and feed posts. Cuts noise when you need a **cleaner signal** (for example, **flat hunting** in busy rental groups by filtering out irrelevant or off-topic posts).
+- **AutoClick** (`website_auto_click`) — Watches for **buttons whose labels match** keywords you set and **clicks them automatically** as they appear. Geared toward **Flipkart** and **Amazon** flows—especially **high-pressure sale windows** or **midnight drops** when shaving seconds off manual clicks matters.
 
 → [**Repository & install guides →**](https://github.com/JATIN-DS/Chrome_Extensions)
-
----
-
-## 🧪 Lab — repos I tinker with
-
-| | |
-|:---|:---|
-| [Titanic–Kaggle](https://github.com/JATIN-DS/Titanic-Challenge-Kaggle) | Classic supervised learning benchmark |
-| [LSTM + Word2Vec text classification](https://github.com/JATIN-DS/Muti-Class-Classification-on-Textual-data-Sentiment-Analysis-LSTM-Word2Vec-embedding) | NLP / embeddings playground |
-| [Deploying ML models](https://github.com/JATIN-DS/deploying-machine-learning-models) | Serving & deployment experiments |
-| [DeepLearning.ai notes](https://github.com/JATIN-DS/DeepLearning.ai-Summary) | DL specialization summaries |
-| [Amazon access challenge](https://github.com/JATIN-DS/Amazon-Employee-Access-Challenge-Github) | Feature + model exploration |
-
-[→ All repositories](https://github.com/JATIN-DS?tab=repositories)
 
 ---
 
