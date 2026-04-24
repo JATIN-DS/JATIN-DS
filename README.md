@@ -25,7 +25,7 @@
 - **Uber:** leading **growth analytics** for **partnered restaurants** globally—focused on **revenue growth** for restaurant partners.  
 - **PhonePe:** senior decision science — experimentation and analytics at scale.  
 - **EXL:** credit risk, loss forecasting, scoring, stress testing, exec dashboards; P&L & cash-flow simulation.  
-- **IIT Delhi:** research (**SURA**), **B.Tech thesis** — microfluidics, binding affinity, image-based quantification.
+- **IIT Delhi graduate.**
 
 ---
 
@@ -47,6 +47,6 @@
 
 <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JATIN-DS&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&title_color=7C3AED&icon_color=00D4AA" />
 
-<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN-DS&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" />
+<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN-DS&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=javascript" />
 
 </div>
