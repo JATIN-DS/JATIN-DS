@@ -38,7 +38,7 @@ long the trip takes at different times, and tells you **the best time to leave**
 Built with **Next.js + TypeScript** and **hosted on Vercel for free** (Hobby plan +
 free Vercel KV).
 
-→ **Live:** [project-cya5z.vercel.app](https://project-cya5z.vercel.app) · **Code:** [**JATIN-DS/CommuteIQ →**](https://github.com/JATIN-DS/CommuteIQ)
+→ **Code & setup guide:** [**JATIN-DS/CommuteIQ →**](https://github.com/JATIN-DS/CommuteIQ)
 
 ---
 
