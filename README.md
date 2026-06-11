@@ -30,6 +30,18 @@
 
 ---
 
+## 🚦 Featured project — CommuteIQ
+
+**[CommuteIQ](https://github.com/JATIN-DS/CommuteIQ)** — a zero-config web app that
+automatically tracks Google traffic on your daily commute, builds a history of how
+long the trip takes at different times, and tells you **the best time to leave**.
+Built with **Next.js + TypeScript** and **hosted on Vercel for free** (Hobby plan +
+free Vercel KV).
+
+→ **Live:** [project-cya5z.vercel.app](https://project-cya5z.vercel.app) · **Code:** [**JATIN-DS/CommuteIQ →**](https://github.com/JATIN-DS/CommuteIQ)
+
+---
+
 ## 🧩 Highlights — browser productivity tools
 
 **Exciting Chrome extensions** — source and install guides in [**Chrome_Extensions**](https://github.com/JATIN-DS/Chrome_Extensions).
