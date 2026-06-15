@@ -20,7 +20,7 @@
 
 - **8+ years** in data science & analytics across marketplaces, payments, and risk.
 - **Uber:** leading **growth analytics** for **partnered restaurants** globally—focused on **revenue growth** for restaurant partners.
-- **PhonePe:** senior decision science — experimentation and analytics at scale.
+- **PhonePe:** Senior Decision Scientist — experimentation and analytics at scale.
 - **EXL:** credit risk, loss forecasting, scoring, stress testing, exec dashboards; P&L & cash-flow simulation.
 - **IIT Delhi graduate.**
 
